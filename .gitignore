@@ -1,0 +1,8 @@
+*.log
+.idea
+.cache
+.vscode
+coverage
+
+/target
+**/*.rs.bk
